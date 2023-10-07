@@ -11,8 +11,8 @@ export default function App() {
     
     return (
         <div>
-            <img src="/src/assets/blob-yellow.png" className="blob-yellow" />
-            <img src="/src/assets/blob-blue.png" className="blob-blue" />
+            <img src="/blob-yellow.png" className="blob-yellow" />
+            <img src="/blob-blue.png" className="blob-blue" />
             {quiz ? <Quiz playAgain={startQuiz} /> : <Start handleStart={startQuiz} />}
         </div>
     )
