@@ -1,8 +1,10 @@
-# React + Vite
+# Quizzical
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Test your knowledge in this fun trivia game! Using HTML, CSS, JS and React this app displays five different multiple choice/true false questions. Once the quiz is complete you can check the answers and see how you did! The questions and answers are fetched from the open trivia database => https://opentdb.com/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Some Technical Skills Used 
+- State and Props
+- React useEffect
+- Ternary operator
+- .map method
+- Conditional rendering 
